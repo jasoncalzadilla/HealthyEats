@@ -1,0 +1,222 @@
+{
+    "food_categories": {
+      "fruits": [
+        {
+          "name": "Apple",
+          "nutrients": {
+            "protein": "0.3g",
+            "carbohydrates": "14g",
+            "fat": "0.2g",
+            "calories": "52"
+          }
+        },
+        {
+          "name": "Banana",
+          "nutrients": {
+            "protein": "1.3g",
+            "carbohydrates": "27g",
+            "fat": "0.4g",
+            "calories": "89"
+          }
+        },
+        {
+          "name": "Orange",
+          "nutrients": {
+            "protein": "1.2g",
+            "carbohydrates": "15g",
+            "fat": "0.2g",
+            "calories": "47"
+          }
+        },
+        {
+          "name": "Grapes",
+          "nutrients": {
+            "protein": "0.6g",
+            "carbohydrates": "17g",
+            "fat": "0.2g",
+            "calories": "67g"
+          }
+        },
+        {
+          "name": "Strawberry",
+          "nutrients": {
+            "protein": "0.8g",
+            "carbohydrates": "7.7g",
+            "fat": "0.4g",
+            "calories": "33"
+          }
+        }
+      ],
+      "vegetables": [
+        {
+          "name": "Broccoli",
+          "nutrients": {
+            "protein": "2.8g",
+            "carbohydrates": "6g",
+            "fat": "0.4g",
+            "calories": "34"
+          }
+        },
+        {
+          "name": "Carrot",
+          "nutrients": {
+            "protein": "0.9g",
+            "carbohydrates": "10g",
+            "fat": "0.2g",
+            "calories": "41"
+          }
+        },
+        {
+          "name": "Spinach",
+          "nutrients": {
+            "protein": "2.9g",
+            "carbohydrates": "3.6g",
+            "fat": "0.4g",
+            "calories": "23"
+          }
+        },
+        {
+          "name": "Tomato",
+          "nutrients": {
+            "protein": "1g",
+            "carbohydrates": "5.8g",
+            "fat": "0.2g",
+            "calories": "19"
+          }
+        },
+        {
+          "name": "Bell Pepper",
+          "nutrients": {
+            "protein": "1g",
+            "carbohydrates": "6g",
+            "fat": "0.3g",
+            "calories": "20"
+          }
+        }
+      ],
+      "grains": [
+        {
+          "name": "Rice",
+          "nutrients": {
+            "protein": "2.7g",
+            "carbohydrates": "28g",
+            "fat": "0.3g",
+            "calories": "130"
+          }
+        },
+        {
+          "name": "Quinoa",
+          "nutrients": {
+            "protein": "4.4g",
+            "carbohydrates": "21g",
+            "fat": "1.9g",
+            "calories": "368"
+          }
+        },
+        {
+          "name": "Oats",
+          "nutrients": {
+            "protein": "2.5g",
+            "carbohydrates": "58g",
+            "fat": "6.9g",
+            "calories": "379"
+          }
+        },
+        {
+          "name": "Whole Wheat Bread",
+          "nutrients": {
+            "protein": "8g",
+            "carbohydrates": "48g",
+            "fat": "2.8g",
+            "calories": "247"
+          }
+        },
+        {
+          "name": "Barley",
+          "nutrients": {
+            "protein": "2.3g",
+            "carbohydrates": "73g",
+            "fat": "0.4g",
+            "calories": "354"
+          }
+        }
+      ],
+      "proteins": [
+        {
+          "name": "Chicken Breast",
+          "nutrients": {
+            "protein": "31g",
+            "carbohydrates": "0g",
+            "fat": "3.6g",
+            "calories": "239"
+          }
+        },
+        {
+          "name": "Salmon",
+          "nutrients": {
+            "protein": "25g",
+            "carbohydrates": "0g",
+            "fat": "13g",
+            "calories": "208"
+          }
+        },
+        {
+          "name": "Tofu",
+          "nutrients": {
+            "protein": "8g",
+            "carbohydrates": "2g",
+            "fat": "4g",
+            "calories": "76"
+          }
+        },
+        {
+          "name": "Eggs",
+          "nutrients": {
+            "protein": "6g",
+            "carbohydrates": "0.6g",
+            "fat": "5g",
+            "calories": "155"
+          }
+        },
+        {
+          "name": "Lean Beef",
+          "nutrients": {
+            "protein": "26g",
+            "carbohydrates": "0g",
+            "fat": "17g",
+            "calories": "250"
+          }
+        }
+      ],
+      "dairy": [
+        {
+          "name": "Milk",
+          "nutrients": {
+            "protein": "8g",
+            "carbohydrates": "12g",
+            "fat": "8g",
+            "calories": "42"
+          }
+        },
+        {
+          "name": "Cheese",
+          "nutrients": {
+            "protein": "7g",
+            "carbohydrates": "1g",
+            "fat": "9g",
+            "calories": "402"
+          }
+        },
+        {
+          "name": "Yogurt",
+          "nutrients": {
+            "protein": "6",
+            "carbohydrates": "15g",
+            "fat": "3g",
+            "calories": "59"
+          }
+        }
+      ]
+    }
+  }
+  
