@@ -85,7 +85,7 @@ document.addEventListener("DOMContentLoaded", function () {
       );
   
       const caloriesDisplay = document.createElement("div");
-      caloriesDisplay.textContent = "Total Calories: " + totalCalories + "g";
+      caloriesDisplay.textContent = "Total Calories: " + totalCalories + "calories";
   
       const button = document.getElementById("CalculateCalories");
       button.parentNode.insertBefore(caloriesDisplay, button);
